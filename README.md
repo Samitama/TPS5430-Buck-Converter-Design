@@ -7,5 +7,5 @@
 ![](img/Schematic.png?raw=true)
 Schematic Design
 
-![](img/PCB Design.png?raw=true)
+![](img/PCB.png?raw=true)
 PCB Design
